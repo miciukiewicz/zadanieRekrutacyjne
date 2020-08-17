@@ -1,0 +1,18 @@
+Koronawirusy – gatunki wirusów, należących do podrodziny Coronavirinae z rodziny Coronaviridae w rzędzie Nidovirales. Podrodzina Coronavirinae podzielona została na cztery rodzaje: alfa-(ang.), beta-(ang.), gamma-(ang.) i deltakoronawirusy(ang.) (łac. Alphacoronavirus, Betacoronavirus, Gammacoronavirus i Deltacoronavirus). Nosicielami poszczególnych gatunków mogą być ssaki lub ptaki.
+
+Koronawirusy posiadają osłonkę oraz pojedynczą nić RNA o symetrii helikalnej i polarności dodatniej. Rozmiar genomu znanych koronawirusów mieści się w zakresie od 26,4 do 31,7 knt[2], co jest wartością niezwykle dużą jak na wirusy RNA. Nazwa „koronawirus” wywodzi się z łac. corona oznaczającego koronę lub wieniec, ponieważ osłonki wirusów w mikroskopii elektronowej wydają się „ukoronowane” pierścieniem małych, przypominających żarówki struktur. Klasa Baltimore: IV.
+Koronawirusy zwierzęce
+Koronawirusy zakażają ptaki i ssaki, powodując liczne choroby układu oddechowego, nerwowego, narządów wewnętrznych czy układu pokarmowego. Do chorób wywoływanych przez koronawirusy zwierzęce należą m.in.:
+
+zakaźne zapalenie oskrzeli u ptactwa (wywołane przez wirus ptasiego zapalenia oskrzeli – IBV – z rodzaju gamma-koronawirus)
+zakaźne zapalenie otrzewnej kotów (wywołane przez wirus kociego koronawirusa z rodzaju alfa-koronawirus)
+epidemiczna biegunka świń
+wirusowe zapalenie żołądka i jelit u bydła.
+Koronawirusy ludzkie
+Pierwsze szczepy koronawirusa ludzkiego zidentyfikowano w latach 60. XX wieku. W 1962 roku wyizolowano szczep B814 pochodzący od dziecka z objawami przeziębienia, stosując hodowlę narządową pochodzącą z tchawicy. Z powodu zaginięcia próbki przed opracowaniem metod pozwalających na identyfikację gatunku, dokładne dane o B814 nie są znane, jednakże w kolejnych latach uzyskano następne izolaty kliniczne. Dwa z nich, 229E i OC43, zidentyfikowano jako osobne gatunki.
+
+Kolejny gatunek ludzkiego koronawirusa, znacznie groźniejszy, zidentyfikowano w 2002 roku w chińskiej prowincji Guangdong. Wirus SARS-CoV, nazywany tak od wywoływanego przez niego zespołu ciężkiej niewydolności oddechowej (ang. Severe Acute Respiratory Syndrome), spowodował falę zachorowań i 775 potwierdzonych zgonów
+
+W następnych latach XXI wieku zidentyfikowano dwie kolejne stosunkowo rozpowszechnione grupy, NL63 i HKU1, które razem z 229E i OC43 są jedną z dość rozpowszechnionych przyczyn przeziębień. Dwie ostatnie grupy odpowiedzialne są za cykliczne (co 2–4 lata) epidemie zakażeń dróg oddechowych, najczęściej w okresie późnej jesieni, zimy i wczesnej wiosny, kiedy zmniejsza się liczba zakażeń rynowirusowych. Uważa się, że koronawirusy są odpowiedzialne za 10–20% wszystkich przeziębień.
+
+Obecnie wyróżnia się siedem gatunków koronawirusów wywołujących infekcję u człowieka:
